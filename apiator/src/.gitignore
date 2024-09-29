@@ -1,0 +1,2 @@
+# Ignore node_modules throughout the entire project
+node_modules/

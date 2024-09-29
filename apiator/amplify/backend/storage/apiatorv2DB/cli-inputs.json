@@ -1,0 +1,14 @@
+{
+  "resourceName": "apiatorv2DB",
+  "tableName": "apiatorv2TBDB",
+  "partitionKey": {
+    "fieldName": "apiId",
+    "fieldType": "string"
+  },
+  "sortKey": {
+    "fieldName": "createdAt",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
